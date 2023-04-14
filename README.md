@@ -51,7 +51,6 @@ Max number of days for borrowing: 7
 .
 .
 Enter 'q' to quit, enter 'i' to search by ID, or enter any other to search by phrase in title
-Enter 'q' to quit, enter 'i' to search by ID, or enter any other to search by phrase in title
 i
 Enter ID to start search, or enter 'b' to go back to choose search method
 211
